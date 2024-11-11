@@ -30,7 +30,8 @@ Pure data like this
 | London       | $50,000                   |
 | Berlim        | $48,000                   |
 
-are easier to see if you look at like this:
-![Average Salaries Chart](imag/average_salaries_chart.png)
+are easuer to see by looking at
+
+<img src="./img/average_salaries_chart.png" alt="Salary Comparison Chart" width="500"/>
 
 1.4. *Definition.*
