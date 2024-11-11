@@ -14,11 +14,11 @@ You can check out my professional background on [LinkedIn](https://www.linkedin.
 
 ## 1. Concept of statistics
 
-1.1. *Definition.* Statistics
+### 1.1. General statistics
 
 You can think of it as the art of to transform data into knoledge. Its very usefull to help corporations make better decisions based on data. It can be used to analyze the past (descriptive) and also to predict the future (predictive), with high accuracy or lower error in some sense.
 
-1.3. *Definition.* Descriptive statistics
+### 1.2. Descriptive statistics
 
 By summarizing (often large amounts of) data, it provides a clear overview without making predictions or inferences about a larger population. It includes graphical visualizations, as well as well-known concepts like mean, median, and mode, among others.
 
@@ -34,4 +34,4 @@ are easuer to see by looking at
 
 <img src="./img/average_salaries_chart.png" alt="Salary Comparison Chart" width="500"/>
 
-1.4. *Definition.*
+### 1.4. *Definition.*
