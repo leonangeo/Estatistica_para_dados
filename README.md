@@ -31,6 +31,6 @@ Pure data like this
 | Berlim        | $48,000                   |
 
 are easier to see if you look at like this:
-
+![Average Salaries Chart](imag/average_salaries_chart.png)
 
 1.4. *Definition.*
