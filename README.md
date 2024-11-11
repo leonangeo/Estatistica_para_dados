@@ -18,4 +18,4 @@ You can check out my professional background on [LinkedIn](https://www.linkedin.
 
 1.2. *Example.* A retail store wants to predict next month’s sales.
 
-By analyzing past sales data (historical trends), the business can use statistical methods like regression analysis to forecast future sales. For example, if sales are consistently higher in the winter months, the store can stock up on popular winter products ahead of time. This can helps the business save money by purchasing stock at its low price.
+By analyzing past sales data (historical trends), the business can use statistical methods like regression analysis to forecast future sales. For example, if sales are consistently higher in the winter months, the store can stock up on popular winter products ahead of time. Thus determining the best-selling products before can help the business save money by purchasing stock at a low price.
