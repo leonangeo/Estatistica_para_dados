@@ -6,7 +6,7 @@ The idea is to explain them in a simple way: concept → example, just for refer
 
 I hope this helps you :D
 
-This repository is part of my portfolio.  
+This repository is part of my portfolio
 
 You can check out my professional background on [LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-01801518a/).
 
