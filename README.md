@@ -34,6 +34,6 @@ are easuer to see by looking at
 
 <img src="./img/average_salaries_chart.png" alt="Salary Comparison Chart" width="500"/>
 
-### 1.4. *Definition.*
+### 1.3. Predictive statistics
 
-Focuses on using historical data and statistical algorithms to forecast future outcomes. By analyzing patterns and trends in existing data, organizations can make informed predictions about what might happen next. It includes stock supply chain, fraud prediction and others.
+Focuses on using historical data and statistical algorithms to forecast future outcomes. By analyzing patterns and trends in existing data, one can make informed predictions about what might happen next.
